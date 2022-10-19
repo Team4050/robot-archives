@@ -1,0 +1,27 @@
+#Robot Code Ignore
+Robot/bin/
+Robot/build/
+Robot/dist/
+Robot/sysProps.xml
+Robot/workbench.xmi
+
+*.ipr
+*.iml
+*.iws
+out/
+tmp/
+.settings/
+.loadpath
+.project
+/.idea
+.classpath
+
+Robot/run/
+Robot/.gradle/
+Robot/gradle/.launch/
+
+#Co-Processor Code Ignore
+
+
+/CoProcessor/CoProcessor.iml
+/CoProcessor/bin/
